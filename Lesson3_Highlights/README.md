@@ -4,16 +4,19 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(June 9th, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Tiffany Boyer)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(The introduction to Version Control Systems.)
+
+##View Project:
+(https://preview.c9users.io/tiffanyboyer/boyer_lesson3_versioncontrol)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (A version Control System is a System that allows users to control the different changes and edits and essentially controls to files edited..)
+2. (Repositories are places for files to live and be edited, and have different options such as Local and Remote for different usages.)
+3. (GitHub is a VCS platform where files can be edited from anywhere.)
 
